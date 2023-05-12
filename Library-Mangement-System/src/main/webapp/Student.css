@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.book1{
+    display: flex;
+  margin-left: 40;
+  margin-right: 40;
+  width: 1400px;
+  height:200px;
+  display: flex;
+  justify-content: center;
+  border: #f44336;
+}
+
+a button {
+    background-color: white;
+    color: white;
+    padding: 14px 20px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+.table{
+	border:1px;
+	margin-top: 40;
+	width:100%;
+}
+tr{
+	border:1px;
+}
+.table tr th{
+	padding: 15px 20px;
+	 border: 1px solid black;
+  border-collapse: collapse;
+}
+p{
+	background-color: blue;
+}
